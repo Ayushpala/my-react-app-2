@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ayush-pala/static/css/main.7f3dd165.css",
+    "main.js": "/Ayush-pala/static/js/main.13b3fa2f.js",
+    "static/js/453.ad6eb26e.chunk.js": "/Ayush-pala/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/Ayush-pala/index.html",
+    "main.7f3dd165.css.map": "/Ayush-pala/static/css/main.7f3dd165.css.map",
+    "main.13b3fa2f.js.map": "/Ayush-pala/static/js/main.13b3fa2f.js.map",
+    "453.ad6eb26e.chunk.js.map": "/Ayush-pala/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f3dd165.css",
+    "static/js/main.13b3fa2f.js"
+  ]
+}
